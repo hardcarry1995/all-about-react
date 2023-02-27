@@ -1,5 +1,5 @@
 <!-- PROJECT LOGO -->
-<br />
+<br />   
 <div align="center">
   <a href="https://github.com/Techwards/all-about-react">
     <img src="images/logo.png" alt="Logo" height="80">
