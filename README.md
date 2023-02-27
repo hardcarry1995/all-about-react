@@ -7,7 +7,7 @@
   <h2 align="center"><b>All About React</b></h2>
   <p align="center">
     A curated list of react resources from industry experts
-  </p>
+  </p>     
   <hr />
 </div>
 
